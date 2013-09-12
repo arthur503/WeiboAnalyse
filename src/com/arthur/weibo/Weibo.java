@@ -6,8 +6,5 @@ public class Weibo {
 		System.out.println("Create a new Weibo.");
 	}
 
-	public static void main(String[] argv){
-		Weibo wb = new Weibo();
-	}
 }
 
